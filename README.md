@@ -1,8 +1,6 @@
 
 
-Olá! Eu sou o Diego 👋
-
-- 🌱 Estudando HTML,CSS e JavaScript...
+- 🌱 HTML,CSS e JavaScript.
 
 <div align="center">
   <a href="https://github.com/diegopassosweb">
